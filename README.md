@@ -4,7 +4,7 @@ Detecaid es un proyecto que permite detectar una caída y, si es necesario, asis
 
 ## Como correr el proyecto
 
-Registro.fig es la interfaz de usuario principal del programa. Desde ahí se puede comenzar el registro en tiempo real. En la carpeta "Recogida y preparado de datos" se encuentran los archivos necesarios para tomar registros y calcular los parámetros sobre ellos.
+`Registro.fig` es la interfaz de usuario principal del programa. Desde ahí se puede comenzar el registro en tiempo real. En la carpeta 'Recogida y preparado de datos' se encuentran los archivos necesarios para tomar registros y calcular los parámetros sobre ellos.
  
 
 ## Authors
